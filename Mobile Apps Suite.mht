@@ -1,0 +1,57 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://workbench.hyperdev.com/projects/prj_7a0ccb858260948d/proxy/drawing
+Subject: Mobile Apps Suite
+Date: Fri, 25 Sep 2026 18:57:24 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--wVKO7xvMgk9UFysJRwzztY8BFSZjD8oStk7GAjUOld----"
+
+
+------MultipartBoundary--wVKO7xvMgk9UFysJRwzztY8BFSZjD8oStk7GAjUOld----
+Content-Type: text/html
+Content-ID: <frame-78271DD43AFD7365783BE82FD46318F7@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://workbench.hyperdev.com/projects/prj_7a0ccb858260948d/proxy/drawing
+
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-5bb83bff-cbfa-4d41-9d26-9778558035c2@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-ee520463-76d5-40aa-bbb4-28748dbc7dd2@mhtml.blink" />
+    
+
+    
+
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Mobile Apps Suite</title>
+    
+  </head>
+  <body>
+    <div id="root"><div style="height: 100vh; display: flex; flex-direction: column; background: rgb(250, 250, 250);"><div style="display: flex; align-items: center; justify-content: space-between; padding: 12px 16px; background: rgb(255, 255, 255); border-bottom: 1px solid rgb(238, 238, 238);"><a href="https://workbench.hyperdev.com/projects/prj_7a0ccb858260948d/proxy" style="font-size: 14px; font-weight: 600; color: rgb(0, 122, 255);">← Home</a><div style="font-size: 16px; font-weight: 700;">Drawing</div><div style="display: flex; gap: 8px;"><button style="border-width: medium; border-style: none; border-color: currentcolor; border-image: none; background: rgb(240, 240, 240); border-radius: 8px; width: 34px; height: 34px; font-size: 16px; cursor: pointer;">↺</button><button disabled="" style="border-width: medium; border-style: none; border-color: currentcolor; border-image: none; background: rgb(240, 240, 240); border-radius: 8px; width: 34px; height: 34px; font-size: 16px; cursor: pointer;">↻</button></div></div><div style="flex: 1 1 0%; margin: 10px 12px; border-radius: 16px; overflow: hidden; box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 14px; background: rgb(255, 255, 255); touch-action: none;"><canvas width="1014" height="1648" style="display: block; width: 368.727px; height: 599.273px; touch-action: none;"></canvas></div><div style="background: rgb(255, 255, 255); border-top: 1px solid rgb(238, 238, 238); padding: 10px 12px 16px; display: flex; flex-direction: column; gap: 10px;"><div style="display: flex; gap: 8px; justify-content: space-between;"><button style="flex: 1 1 0%; display: flex; flex-direction: column; align-items: center; gap: 2px; padding: 8px 4px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; border-radius: 10px; background: rgb(219, 233, 255); cursor: pointer; box-shadow: rgb(0, 122, 255) 0px 0px 0px 2px inset;"><span style="font-size: 18px;">🖌️</span><span style="font-size: 10px;">Brush</span></button><button style="flex: 1 1 0%; display: flex; flex-direction: column; align-items: center; gap: 2px; padding: 8px 4px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; border-radius: 10px; background: rgb(244, 244, 245); cursor: pointer;"><span style="font-size: 18px;">🧽</span><span style="font-size: 10px;">Eraser</span></button><button style="flex: 1 1 0%; display: flex; flex-direction: column; align-items: center; gap: 2px; padding: 8px 4px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; border-radius: 10px; background: rgb(244, 244, 245); cursor: pointer;"><span style="font-size: 18px;">🪣</span><span style="font-size: 10px;">Fill</span></button><button style="flex: 1 1 0%; display: flex; flex-direction: column; align-items: center; gap: 2px; padding: 8px 4px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; border-radius: 10px; background: rgb(244, 244, 245); cursor: pointer;"><span style="font-size: 18px;">🗑️</span><span style="font-size: 10px;">Clear</span></button><button style="flex: 1 1 0%; display: flex; flex-direction: column; align-items: center; gap: 2px; padding: 8px 4px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; border-radius: 10px; background: rgb(244, 244, 245); cursor: pointer;"><span style="font-size: 18px;">💾</span><span style="font-size: 10px;">Save</span></button></div><div style="display: flex; align-items: center; gap: 10px;"><span style="font-size: 12px; color: rgb(102, 102, 102); width: 40px;">Size</span><input type="range" min="2" max="40" value="6" style="flex: 1 1 0%;"><div style="width: 6px; height: 6px; border-radius: 50%; background: rgb(0, 0, 0); border: 1px solid rgb(221, 221, 221); flex-shrink: 0;"></div></div><div style="display: flex; gap: 8px; overflow-x: auto; padding-bottom: 4px;"><button style="width: 30px; height: 30px; border-radius: 50%; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; flex-shrink: 0; cursor: pointer; background: rgb(0, 0, 0); box-shadow: rgb(51, 51, 51) 0px 0px 0px 3px;"></button><button style="width: 30px; height: 30px; border-radius: 50%; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; flex-shrink: 0; cursor: pointer; background: rgb(255, 255, 255); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 0px 1px;"></button><button style="width: 30px; height: 30px; border-radius: 50%; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; flex-shrink: 0; cursor: pointer; background: rgb(255, 59, 48); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 0px 1px;"></button><button style="width: 30px; height: 30px; border-radius: 50%; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; flex-shrink: 0; cursor: pointer; background: rgb(255, 149, 0); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 0px 1px;"></button><button style="width: 30px; height: 30px; border-radius: 50%; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; flex-shrink: 0; cursor: pointer; background: rgb(255, 204, 0); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 0px 1px;"></button><button style="width: 30px; height: 30px; border-radius: 50%; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; flex-shrink: 0; cursor: pointer; background: rgb(52, 199, 89); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 0px 1px;"></button><button style="width: 30px; height: 30px; border-radius: 50%; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; flex-shrink: 0; cursor: pointer; background: rgb(0, 199, 190); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 0px 1px;"></button><button style="width: 30px; height: 30px; border-radius: 50%; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; flex-shrink: 0; cursor: pointer; background: rgb(0, 122, 255); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 0px 1px;"></button><button style="width: 30px; height: 30px; border-radius: 50%; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; flex-shrink: 0; cursor: pointer; background: rgb(88, 86, 214); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 0px 1px;"></button><button style="width: 30px; height: 30px; border-radius: 50%; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; flex-shrink: 0; cursor: pointer; background: rgb(175, 82, 222); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 0px 1px;"></button><button style="width: 30px; height: 30px; border-radius: 50%; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; flex-shrink: 0; cursor: pointer; background: rgb(255, 45, 85); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 0px 1px;"></button><button style="width: 30px; height: 30px; border-radius: 50%; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; flex-shrink: 0; cursor: pointer; background: rgb(142, 142, 147); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 0px 1px;"></button></div></div></div></div>
+    
+  
+
+</body></html>
+------MultipartBoundary--wVKO7xvMgk9UFysJRwzztY8BFSZjD8oStk7GAjUOld----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-ee520463-76d5-40aa-bbb4-28748dbc7dd2@mhtml.blink
+
+@charset "utf-8";
+
+:root { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; color-scheme: light; }
+
+body { background: rgb(242, 243, 247); overscroll-behavior: none; }
+
+a { text-decoration: none; color: inherit; }
+
+button { font-family: inherit; }
+------MultipartBoundary--wVKO7xvMgk9UFysJRwzztY8BFSZjD8oStk7GAjUOld----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-5bb83bff-cbfa-4d41-9d26-9778558035c2@mhtml.blink
+
+@charset "utf-8";
+
+html, body { margin: 0px; padding: 0px; height: 100%; }
+
+* { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+------MultipartBoundary--wVKO7xvMgk9UFysJRwzztY8BFSZjD8oStk7GAjUOld------
